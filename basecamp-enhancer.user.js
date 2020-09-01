@@ -4,7 +4,7 @@
 // @namespace       waylaidwanderer
 // @description     Adds useful features to Basecamp.com
 // @downloadURL     https://github.com/waylaidwanderer/basecamp-enhancer/raw/master/basecamp-enhancer.user.js
-// @include         https://3.basecamp.com/*/buckets/*/todos/*
+// @include         https://3.basecamp.com/*/buckets/*
 // @require         https://code.jquery.com/jquery-3.5.1.min.js
 // @require         https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js
 // ==/UserScript==
